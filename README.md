@@ -73,29 +73,5 @@ course-list.component.html
 </div>
 ```
 
-## Course-Manager
-
-#### Sistema de Gerenciamento de Cursos - Criar - Editar - Consultar - Deletar
-
-```
-ng new course-manager
-```
-
-> Esse projeto tem como finalidade consultar, editar, alterar e deletar os cursos além de criar validações de formulário do curso
-
-### SRC/APP/courses
-
-> Diretório correspondente aos componentes inerentes aos cursos
-
-```text
-course-list.component.html
-```
-
-```text
-course.ts
-```
-
-> Classe de curso
-
 
 
